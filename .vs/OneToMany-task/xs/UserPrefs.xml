@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A00CB083-0542-4C6D-BAE1-6FE99B51208B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneToMany-task/Services/CategoryService.cs">
+    <Files>
+      <File FileName="OneToMany-task/Services/Interfaces/ICategoryService.cs" Line="13" Column="22" />
+      <File FileName="OneToMany-task/Services/CategoryService.cs" Line="28" Column="47" />
+      <File FileName="OneToMany-task/Areas/Admin/Controllers/CategoryController.cs" Line="123" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OneToMany-task" expanded="True">
+            <Node name="OneToMany-task">
+              <Node name="Areas">
+                <Node name="Admin">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="CategoryService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OneToMany-task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
